@@ -1,7 +1,6 @@
-# background-generator
+# Background Generator
 
-Background generator
-![Screenshot from 2022-04-15 11-57-55](https://user-images.githubusercontent.com/41795181/163530862-85e59005-311a-4ea7-80e6-ed10361878a4.png)
+![Screenshot from 2022-04-15 12-01-21](https://user-images.githubusercontent.com/41795181/163531138-182b7a3d-7de4-434a-a2bb-e62319e6a930.png)
 
 This is a simple site to select best background.
 Try using Github Pages:
